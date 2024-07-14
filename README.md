@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I have experience in both research and hackathons
 <!--
 **MASHAR27/MASHAR27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
